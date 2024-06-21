@@ -147,7 +147,7 @@ SN;;shona
 SD;;sindhi
 SO;;somali
 ST;;sotho du Sud
-ES;;castillan
+ES;;espagnol
 SC;;sarde
 SR;;serbe
 SS;;swati
